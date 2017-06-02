@@ -1,11 +1,11 @@
 {
-  "name": "twitter-web-night-mode",
-  "version": "0.0.16",
-  "description": "Android/iOS like night mode for twitter web app",
+  "name": "twitter-nightmode",
+  "version": "1.0",
+  "description": "Dark Theme - Nightmode for twitter.com",
   "scripts": {
     "build": "node_modules/gulp/bin/gulp.js"
   },
-  "author": "Sriram Thiagarajan <sri.sjc@gmail.com> (https://github.com/tsriram)",
+  "author": "Andreas Helm (https://github.com/karagandy) - original Theme from Sriram Thiagarajan <sri.sjc@gmail.com> (https://github.com/tsriram)",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",

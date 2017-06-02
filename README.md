@@ -1,12 +1,8 @@
-# twitter-web-night-mode
+# twitter-nightmode
 
-This is a web extension to bring [twitter's night mode](https://twitter.com/twitter/status/757969656493649921) to both Chrome & Firefox.
+Black / Dark Mode for twitter.com
 
-You can access install from here:
-
-**Chrome** - [https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca](https://chrome.google.com/webstore/detail/twitter-web-night-mode/cadmiljohldbooihfbkjkobepojailca)
-
-**Firefox** - [https://addons.mozilla.org/en-US/firefox/addon/twitter-web-night-mode/](https://addons.mozilla.org/en-US/firefox/addon/twitter-web-night-mode/)
+Forked from https://github.com/tsriram/twitter-web-night-mode
 
 ## Developemnt
 
@@ -14,9 +10,3 @@ You can access install from here:
 * run `gulp watch` and start hacking
 * edit code in `js` & `sass` directories as needed
 * run `gulp` or `npm run build` to build `dist/chrome` and `dist/firefox`
-
-**TODO**:
-- [x] Add night mode theme to other twitter pages (currently applies only to home tab)
-- [ ] Clean up Sass - preferably multiple .scss files - each one for page specific styles and one for common styles 
-- [x] Gulp watch (didn't need it much so far)
-- [ ] Add CONTRIBUTION.md

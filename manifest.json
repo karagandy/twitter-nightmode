@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Twitter Web - Night Mode",
-  "version": "0.0.16",
-  "description": "Android/iOS like night mode for twitter web app",
+  "name": "Twitter - Night Mode",
+  "version": "1.0",
+  "description": "Dark Theme - Nightmode for twitter.com",
   "homepage_url": "https://github.com/tsriram/twitter-web-night-mode",
 
   "background": {
@@ -42,5 +42,5 @@
     "storage"
   ],
 
-  "author": "Sriram Thiagarajan"
+  "author": "Andreas Helm (https://github.com/karagandy) - original Theme from Sriram Thiagarajan <sri.sjc@gmail.com> (https://github.com/tsriram)"
 }
